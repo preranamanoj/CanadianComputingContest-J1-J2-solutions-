@@ -1,3 +1,5 @@
+#sample solution for the JCCC 2016 J2 problem (note: worked on grader, but efficiency can be improved to meet more conditions)
+
 x = input() #enter a list of integers w spaces 
 y = input()
 z = input()
